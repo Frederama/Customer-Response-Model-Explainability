@@ -38,7 +38,7 @@ As machine learning models are increasingly deployed in real-world environments,
 ## 💼 Skills Demonstrated
 
 - **Data Preprocessing**: Pipelines for transforming raw input into ML-ready format
-- **Statistical Testing**: PSI, KS test, and drift-detection via classification
+- **Statistical Testing**: Jensen-Shannon Divergence value and drift-detection via classification
 - **Model Interpretability**: PDP, LIME, SHAP visualizations for both tabular and black-box models
 - **Modular Design**: Reusable components in a clean, readable codebase
 
