@@ -29,7 +29,7 @@ As machine learning models are increasingly deployed in real-world environments,
 | Notebook                          | What It Demonstrates                                                     |
 |----------------------------------|--------------------------------------------------------------------------|
 | `01_Feature_Engineering.ipynb`   | Feature selection, handling missing values, encoding, and transformation |
-| `02_Data_and_Model_Drift.ipynb`  | Monitoring input and prediction shifts using PSI, KS tests, model drift  |
+| `02_Data_and_Model_Drift.ipynb`  | Monitoring input and prediction shifts using Jensen-Shannon Divergence value, model drift  |
 | `03_PDP.ipynb`                   | Understanding global feature effects with Partial Dependence Plots       |
 | `04_LIME_SHAP.ipynb`             | Visualizing individual predictions using LIME and SHAP                   |
 
