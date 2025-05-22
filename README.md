@@ -43,3 +43,13 @@ As machine learning models are increasingly deployed in real-world environments,
 - **Modular Design**: Reusable components in a clean, readable codebase
 
 ---
+
+## 🎯 Why This Project?
+
+This project was designed to reflect the kind of work done by machine learning engineers and data scientists in production environments. It emphasizes:
+
+- Monitoring model health over time  
+- Building transparent ML systems  
+- Communicating insights effectively to technical and non-technical stakeholders
+
+---
