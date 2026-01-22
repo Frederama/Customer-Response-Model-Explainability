@@ -1,19 +1,19 @@
 # Customer-Response-Model-Explainability
 
-## 🧠 ML Model Monitoring & Explainability Toolkit
+## ML Model Monitoring & Explainability Toolkit
 
 This project demonstrates a robust, end-to-end workflow for building, validating, and interpreting machine learning models with a strong focus on transparency and production-readiness.
 
 It includes four modular notebooks:
 
-- 🔧 **Feature Engineering**
-- 📉 **Data and Model Drift Detection**
-- 📊 **Partial Dependence Plots (PDP)**
-- 🧾 **LIME & SHAP Explainability**
+- **Feature Engineering**
+- **Data and Model Drift Detection**
+- **Partial Dependence Plots (PDP)**
+- **LIME & SHAP Explainability**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 As machine learning models are increasingly deployed in real-world environments, ensuring that they remain stable, explainable, and compliant is essential. This project provides a streamlined approach to:
 
@@ -24,7 +24,7 @@ As machine learning models are increasingly deployed in real-world environments,
 
 ---
 
-## 🗂️ Notebook Highlights
+## Notebook Highlights
 
 | Notebook                          | What It Demonstrates                                                     |
 |----------------------------------|--------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ As machine learning models are increasingly deployed in real-world environments,
 
 ---
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 
 - **Data Preprocessing**: Pipelines for transforming raw input into ML-ready format
 - **Statistical Testing**: Jensen-Shannon Divergence value and drift-detection via classification
@@ -44,7 +44,7 @@ As machine learning models are increasingly deployed in real-world environments,
 
 ---
 
-## 🎯 Why This Project?
+## Why This Project?
 
 This project was designed to reflect the kind of work done by machine learning engineers and data scientists in production environments. It emphasizes:
 
